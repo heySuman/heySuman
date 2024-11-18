@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@radix-ui/react-slot": "^1.1.0",
+    "@react-three/drei": "^9.117.1",
     "@react-three/fiber": "^8.17.10",
     "@types/three": "^0.170.0",
     "class-variance-authority": "^0.7.0",
